@@ -31,3 +31,12 @@ Terdapat 3 Kelas : Human, Sivitas Akademik, dan Mahasiswa
    - Merupakan Grandchild dari Human
    - Atribut : NIM, Nama, Jenis Kelamin, Program Studi, dan Fakultas
    - Method : Konstruktor, set, dan get
+
+# Dokumentasi Program
+![Screenshot (131)](https://user-images.githubusercontent.com/85111014/224393281-04e24268-ca70-47d0-a48f-da03fe2b162a.png)
+![Screenshot (132)](https://user-images.githubusercontent.com/85111014/224393322-132d73cd-2004-42ff-a4f3-34c03eb27834.png)
+![Screenshot (133)](https://user-images.githubusercontent.com/85111014/224393331-b557549b-f0b6-456c-95d9-9df60be437c6.png)
+
+
+
+
