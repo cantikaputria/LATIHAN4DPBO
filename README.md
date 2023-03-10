@@ -7,6 +7,8 @@ dalam Praktikum mata kuliah Desain dan Pemrograman Berorientasi Objek, untuk keb
 maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
 
 # Desain Program
+![DPBO-Page-4 drawio](https://user-images.githubusercontent.com/85111014/224393074-358dab55-d447-4fe0-913f-10929b053033.png)
+
 Menggunakan 4 Bahasa Pemrograman:
 1. Java
 2. PHP
