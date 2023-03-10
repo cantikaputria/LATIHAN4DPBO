@@ -1,5 +1,5 @@
 # LATIHAN4DPBO
-Repository untuk memenuhi Latihan Praktikum 2 Mata Kuliah Desain dan Pemrograman Berorientasi Objek
+Repository untuk memenuhi Latihan Praktikum 4 Mata Kuliah Desain dan Pemrograman Berorientasi Objek
 
 # Janji
 Saya Cantika Putri Arbiliansyah dengan NIM 2103727 mengerjakan soal Latihan 4 
