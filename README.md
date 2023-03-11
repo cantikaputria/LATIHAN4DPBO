@@ -9,11 +9,16 @@ maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
 # Desain Program
 ![DPBO-Page-4 drawio](https://user-images.githubusercontent.com/85111014/224393074-358dab55-d447-4fe0-913f-10929b053033.png)
 
-Menggunakan 4 Bahasa Pemrograman:
-1. Java
-2. PHP
-3. C++
-4. Python
+Menggunakan 2 Bahasa Pemrograman:
+1. PHP
+2. Python
+
+# Alur Program
+Program ini akan menginstansiasi objek mahasiswa dan dosen, kemudian instansiasi objek mata kuliah dengan mengcomposite objek dosen pengampu dan list mahasiswa yang mengontrak instansiasi objek prodi dengan mengcomposite objek matakuliah yang ada pada prodi
+memasukan objek prodi ke list_prodi
+menampilkan isi data objek prodi pada list_prodi
+
+Program ini memiliki alur perjalanan mulai dari instansiasi objek dari kelas Mahasiswa dan Dosen, mwnginisiasi objek mata kuliah yang merupakan composite dari objek dosen, menginisiasi mahasiswa dengan mengcomposite objek mata kuliah pada prodi, dan memasukkan objek tersebut ke dalam list. Sehingga, menampilkan data beberapa objek di dalam list dengan menggunakan getter methods.
 
 Terdapat 3 Kelas : Human, Sivitas Akademik, dan Mahasiswa
 1. Kelas Human
