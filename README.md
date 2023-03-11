@@ -62,6 +62,12 @@ Tampilan Data Dosen
 Tampilan Data Mata Kuliah dan Program Studi
 ![image](https://user-images.githubusercontent.com/85111014/224466383-d569b0d6-f5d0-4d1b-a3ec-159c76688c09.png)
 
+Tampilan dengan Relasi
+![Screenshot 2023-03-11 134637](https://user-images.githubusercontent.com/85111014/224470653-a2b30ae1-e85b-4156-8665-f2708610bce4.png)
+![Screenshot 2023-03-11 134645](https://user-images.githubusercontent.com/85111014/224470664-2b68dba2-0310-4b72-bdf0-123ff520eb4e.png)
+![Screenshot 2023-03-11 134739](https://user-images.githubusercontent.com/85111014/224470667-006f38b6-b7c8-45e4-85ae-97dd3e8b0384.png)
+
+
 
 
 
