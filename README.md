@@ -13,11 +13,6 @@ Menggunakan 2 Bahasa Pemrograman:
 1. PHP
 2. Python
 
-# Alur Program
-Program ini akan menginstansiasi objek mahasiswa dan dosen, kemudian instansiasi objek mata kuliah dengan mengcomposite objek dosen pengampu dan list mahasiswa yang mengontrak instansiasi objek prodi dengan mengcomposite objek matakuliah yang ada pada prodi
-memasukan objek prodi ke list_prodi
-menampilkan isi data objek prodi pada list_prodi
-
 Program ini memiliki alur perjalanan mulai dari instansiasi objek dari kelas Mahasiswa dan Dosen, mwnginisiasi objek mata kuliah yang merupakan composite dari objek dosen, menginisiasi mahasiswa dengan mengcomposite objek mata kuliah pada prodi, dan memasukkan objek tersebut ke dalam list. Sehingga, menampilkan data beberapa objek di dalam list dengan menggunakan getter methods.
 
 Terdapat 3 Kelas : Human, Sivitas Akademik, dan Mahasiswa
@@ -52,13 +47,21 @@ Terdapat 3 Kelas : Human, Sivitas Akademik, dan Mahasiswa
      - Atribut 0bjek : list mata kuliah
      - Method : Konstruktor, set dan get untuk setiap atribut
 
+# Alur Program
+Program ini akan menginstansiasi objek mahasiswa dan dosen, kemudian instansiasi objek mata kuliah dengan mengcomposite objek dosen pengampu dan list mahasiswa yang mengontrak instansiasi objek prodi dengan mengcomposite objek matakuliah yang ada pada prodi
+memasukan objek prodi ke list_prodi
+menampilkan isi data objek prodi pada list_prodi
+
 # Dokumentasi Program
 Tampilan Data Mahasiswa
-![Screenshot (131)](https://user-images.githubusercontent.com/85111014/224393281-04e24268-ca70-47d0-a48f-da03fe2b162a.png)
+![image](https://user-images.githubusercontent.com/85111014/224466363-ee2cb259-84f3-4971-b8da-faba39321cf6.png)
+
 Tampilan Data Dosen
-![Screenshot (132)](https://user-images.githubusercontent.com/85111014/224393322-132d73cd-2004-42ff-a4f3-34c03eb27834.png)
+![image](https://user-images.githubusercontent.com/85111014/224466375-3e8d9941-2898-48b1-b18b-1f1eb777c6e2.png)
+
 Tampilan Data Mata Kuliah dan Program Studi
-![Screenshot (133)](https://user-images.githubusercontent.com/85111014/224393331-b557549b-f0b6-456c-95d9-9df60be437c6.png)
+![image](https://user-images.githubusercontent.com/85111014/224466383-d569b0d6-f5d0-4d1b-a3ec-159c76688c09.png)
+
 
 
 
