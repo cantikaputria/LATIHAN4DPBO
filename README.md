@@ -48,8 +48,11 @@ Terdapat 3 Kelas : Human, Sivitas Akademik, dan Mahasiswa
      - Method : Konstruktor, set dan get untuk setiap atribut
 
 # Dokumentasi Program
+Tampilan Data Mahasiswa
 ![Screenshot (131)](https://user-images.githubusercontent.com/85111014/224393281-04e24268-ca70-47d0-a48f-da03fe2b162a.png)
+Tampilan Data Dosen
 ![Screenshot (132)](https://user-images.githubusercontent.com/85111014/224393322-132d73cd-2004-42ff-a4f3-34c03eb27834.png)
+Tampilan Data Mata Kuliah dan Program Studi
 ![Screenshot (133)](https://user-images.githubusercontent.com/85111014/224393331-b557549b-f0b6-456c-95d9-9df60be437c6.png)
 
 
