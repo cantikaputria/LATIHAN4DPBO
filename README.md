@@ -32,20 +32,20 @@ Terdapat 3 Kelas : Human, Sivitas Akademik, dan Mahasiswa
    - Atribut : NIM, Nama, Jenis Kelamin, Program Studi, dan Fakultas
    - Method : Konstruktor, set dan get untuk setiap atribut
  4. Kelas Dosen
-   - Merupakan Child dari Sivitas Akademik (Derived Class 2)
-   - Merupakan Grandchild dari Human
-   - Atribut : NIP, Fakultas, Pendidikan Terakhir, dan Keahlian
-   - Method : Konstruktor, set dan get untuk setiap atribut
+      - Merupakan Child dari Sivitas Akademik (Derived Class 2)
+      - Merupakan Grandchild dari Human
+      - Atribut : NIP, Fakultas, Pendidikan Terakhir, dan Keahlian
+      - Method : Konstruktor, set dan get untuk setiap atribut
  5. Kelas Course
-   - Merupakan composite dari kelas dosen dan mahasiswa
-   - Atribut : nama kuliah
-   - Atribut objek : dosen dan list mahasiswa
-   - Method : Konstruktor, set dan get untuk setiap atribut
+      - Merupakan composite dari kelas dosen dan mahasiswa
+      - Atribut : nama kuliah
+      - Atribut objek : dosen dan list mahasiswa
+      - Method : Konstruktor, set dan get untuk setiap atribut
   6. Kelas Prodi
-  - Merupakan composite dari course
-  - Atribut : nama prodi dan kode
-  - Atribut 0bjek : list mata kuliah
-  - Method : Konstruktor, set dan get untuk setiap atribut
+     - Merupakan composite dari course
+     - Atribut : nama prodi dan kode
+     - Atribut 0bjek : list mata kuliah
+     - Method : Konstruktor, set dan get untuk setiap atribut
 
 # Dokumentasi Program
 ![Screenshot (131)](https://user-images.githubusercontent.com/85111014/224393281-04e24268-ca70-47d0-a48f-da03fe2b162a.png)
