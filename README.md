@@ -54,17 +54,23 @@ menampilkan isi data objek prodi pada list_prodi
 
 # Dokumentasi Program
 Tampilan Data Mahasiswa
+
 ![image](https://user-images.githubusercontent.com/85111014/224466363-ee2cb259-84f3-4971-b8da-faba39321cf6.png)
 
 Tampilan Data Dosen
+
 ![image](https://user-images.githubusercontent.com/85111014/224466375-3e8d9941-2898-48b1-b18b-1f1eb777c6e2.png)
 
 Tampilan Data Mata Kuliah dan Program Studi
+
 ![image](https://user-images.githubusercontent.com/85111014/224466383-d569b0d6-f5d0-4d1b-a3ec-159c76688c09.png)
 
 Tampilan dengan Relasi
+
 ![Screenshot 2023-03-11 134637](https://user-images.githubusercontent.com/85111014/224470653-a2b30ae1-e85b-4156-8665-f2708610bce4.png)
+
 ![Screenshot 2023-03-11 134645](https://user-images.githubusercontent.com/85111014/224470664-2b68dba2-0310-4b72-bdf0-123ff520eb4e.png)
+
 ![Screenshot 2023-03-11 134739](https://user-images.githubusercontent.com/85111014/224470667-006f38b6-b7c8-45e4-85ae-97dd3e8b0384.png)
 
 
